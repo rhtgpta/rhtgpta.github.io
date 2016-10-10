@@ -71,7 +71,7 @@ Also, if you are willing to add it yourself then feel free to open a pull reques
             
         </ul>
         <input type="submit" value="Send" id="submit"/>
-        <input type="hidden" name='redirect_to' value="http://blog.webjeda.com/thank-you/" />
+        <input type="hidden" name='redirect_to' value="http://rohitgupta91.github.io/thank-you/" />
         
 </form>
 
