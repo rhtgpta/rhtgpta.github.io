@@ -50,6 +50,8 @@ highlighter: pygments
 # Go to https://getsimpleform.com and get a API token by signing up with your email and enter that here
 api-token:3f66662ff1ab2099d1eddc06f4eb8350
 
+include: [_pages]
+
 # Permalinks
 permalink:        pretty
 
