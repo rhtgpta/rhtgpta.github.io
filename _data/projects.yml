@@ -1,10 +1,21 @@
 - name: COD Return Prediction
-  time: January 2016
+  time: February 2016
   url:
   tagline: predicting the returns for cash-on-delivery shipments in e-commerce 
   tools: R, Python, MongoDB, Linux, AWS
   description: |
     Higher return rates for e-commerce cash-on-delivery shipments in India. Created a database for transaction history of ~20M unique customers. Brainstormed hypotheses and developed an issue tree to identify major factors. Employed various ML techniques to determine the propensity of return (Logistic Regression, Decision Trees, Support Vector Machines, Neural Networks).    
+  #github:
+   # url: 
+   # branch: 
+   
+- name: Business Intelligence Stack
+  time: October 2015
+  url:
+  tagline: making business intelligence scalable, quick and easy 
+  tools: R, Python, Pentaho, MongoDB, Linux, AWS, PostgreSQL
+  description: |
+    Identified data requirements of stakeholders. Fetched data from NoSQL, manipulated through R and pushed to SQL database. Defined mondrian schemas and ETL processes. Synced data through DropBox for "on-the-fly" requirements. Automated the procedure through cron jobs. Intuitive UI through Saiku to aggregate huge amounts of data to encourage/simplify independent analysis. Reduced turnaround time from ~3days to <15 minutes. 
   #github:
    # url: 
    # branch: 
