@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-Hi, I'm Rohit Gupta, a data geek currently employed with [Delhivery][work]. I graduated from [Indprastha University][study] with a B.Tech in Electronics in 2013. I'm from New Delhi, India.  
+Hi, I'm Rohit Gupta, a data geek currently employed with [Delhivery][work]. I graduated from [Indraprastha University][study] with a B.Tech in Electronics in 2013. I'm from New Delhi, India.  
 
 Love identifying problems and solving them through analytical rigour. Particularly fascinated by the intersection of technology, business, mathematics and pyschology. Struggling to remain language/tool agnostic. I'm a fan of open-source systems, and R/Python/Linux are my Goto tools. Check out my projects, or have a look at my Résumé.
 
