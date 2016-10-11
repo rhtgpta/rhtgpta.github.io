@@ -4,8 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-Hi, I am Gayan Virajith, a developer (who works on the web) based on Sri Lanka. 
-Graduated from the University College Dublin (National University of Ireland). 
+Hi, I'm Rohit Gupta, a data geek currently employed with [Delhivery][work]. I graduated from [Indprastha University][study] with a B.Tech in Electronics in 2013. I'm from New Delhi, India.  
 
 I am Working for [template-factory.nl][tf] also known as [Mearch ICT][m].
 Prefer to serve with Php and Ruby based stacks and also love to work 
@@ -17,11 +16,5 @@ Find me on [Google+][google] / [Github][github] / [Twitter][Twitter] or just say
 [gayanvirajith@gmail.com](gayanvirajith@gmail.com).
 
 
-[tf]: http://template-factory.nl
-[m]: http://mearch.com
-[pw]: http://processwire.com
-[pwf]: http://processwire.com/talk
-[jekyll]: http://jekyllrb.com
-[github]: https://github.com/gayanvirajith
-[google]: https://plus.google.com/+GayanVirajith
-[twitter]: https://twitter.com/gayanvirajith
+[work]: http://www.delhivery.com/
+[study]: https://en.wikipedia.org/wiki/Guru_Gobind_Singh_Indraprastha_University
