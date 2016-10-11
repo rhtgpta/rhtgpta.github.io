@@ -1,4 +1,4 @@
-- name: COD Return Prediction
+- name: Black sheeps in E-Commerce
   time: February 2016
   url:
   tagline: predicting the returns for cash-on-delivery shipments in e-commerce 
@@ -9,7 +9,7 @@
    # url: 
    # branch: 
    
-- name: Business Intelligence Stack
+- name: Business Intelligence stack
   time: October 2015
   url:
   tagline: making business intelligence scalable, quick and easy 
@@ -19,3 +19,36 @@
   #github:
    # url: 
    # branch: 
+   
+- name: Trend of support calls  
+  time: February 2015
+  url:
+  tagline: predicting no. of support calls over lifetime of a product to help plan expenditure for a Fortune 10 client  
+  tools: R, Excel, SQL Workbench/J
+  description: |
+    Identified major factors affecting support calls volume. Split the volume for different issues based on fundamental difference in call trends. Employed various non-linear modelling techniques and achieved a high goodness of fit.   
+  #github:
+   # url: 
+   # branch:
+
+- name: Dynamic pricing strategy
+  time: July 2014
+  url:
+  tagline: deciding prices based on demand/supply for a major player in secondary ticket market   
+  tools: R, Excel, Teradata, Powerpoint
+  description: |
+    Employed price elasticity principle for deciding on the ideal commission to be charged from the ticket buyer. Suggested improvements for storing key variables in the primary price database. Identified and verified good proxies for unavailable data.   
+  #github:
+   # url: 
+   # branch:
+
+- name: Sales of heavy mechanical equipment
+  time: April 2014
+  url:
+  tagline: identifying effect of macro-economic trends on sales for a leading construction/mining manufacturer
+  tools: R, Excel
+  description: |
+    Brainstormed and listed hypotheses about factors that affect sales of construction equipment. Scouted for open source US data to explain the monthly sales over years (number of homes built, new planned construction sites, disasters etc). Used a time-series technique (ARIMAx) to predict (sales of a wheel loader).    
+  #github:
+   # url: 
+   # branch:
