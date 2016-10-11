@@ -17,7 +17,7 @@ Find me on [Facebook][fb] / [LinkedIn][li] / [Quora][qr] / [Goodreads][gr] or dr
 [work]: http://www.delhivery.com/
 [study]: https://en.wikipedia.org/wiki/Guru_Gobind_Singh_Indraprastha_University
 [fb]: http://www.facebook.com/rohitt.gupta
-[li]: http://www.linkedin.com/rohitgupta91
+[li]: http://www.linkedin.com/in/rohitgupta91
 [qr]: https://www.quora.com/profile/Rohit-Gupta-22
 [gr]: https://www.goodreads.com/user/show/8470675-rohit
 
