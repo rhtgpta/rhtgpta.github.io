@@ -58,6 +58,9 @@ exclude:
   - .sass-cache
   - Gemfile.lock
 
+gems:
+  - jekyll-sitemap
+
 # Sass conversion configs
 sass:
     sass_dir: assets/css/_sass
