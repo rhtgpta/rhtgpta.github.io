@@ -17,8 +17,8 @@ harmony:
   # 'meta_description:' Write an awesome description for your new site here.
   # It will appear in your document head meta (for Google search results) and 
   # in your feed.xml site description.
-  meta_description: > # 
-  Personal website/blog. Rohit Gupta. Used as a landing page to integrate social media profiles at one place, and for postig musings.
+  meta_description: >  
+  Personal website/blog. Rohit Gupta. Used as a landing page to integrate social media profiles at one place, and for posting musings.
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
     name: Rohit Gupta
