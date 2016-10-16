@@ -1,40 +1,42 @@
-# Harmony Jekyll theme general configurations
+# Harmony Jekyll theme general configurations 
 
 # Base URL
-#baseurl: /harmony
+baseurl: /harmony
 
 # Site live URL
-# url: http://rohitgupta91.github.io
+#url: http://gayan.me
 
-# Localhost
-url: http://127.0.0.1:4000
+# Localhost 
+url: http://127.0.0.1:4000  
 
 # Harmony theme configuration. Please change accordingly.
 harmony:
-  name: Rohit Gupta
+  name: Harmony
   # Little description about your site
-  description: data science enthusiast. automation advocate. glutton for written words. up for ping-pong.
+  description: Harmony is free responsive jekyll theme.
   # 'meta_description:' Write an awesome description for your new site here.
   # It will appear in your document head meta (for Google search results) and 
   # in your feed.xml site description.
   meta_description: > # 
-    Personal website/blog. Used as a landing page to integrate social media profiles at one place, and for posting musings.
- basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
- author: # Author details
-    name: Rohit Gupta
-    email: rohitgupta@hotmail.co.in
-    url: http://rohigupta91.github.io
+   Harmony is a free responsive jekyll theme by Gayan Virajith
+   and Maheshika Lakmali. Sourced on Github - 
+   https://github.com/gayanvirajith/harmony
+  basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
+  author: # Author details
+    name: Gayan Virajith
+    email: gayanvirajith@gmail.com
+    url: http://gayanvirajith.github.io
 
   # Google Analytics key, leave blank to ignore
-  google_analytics_key: 
+  google_analytics_key: UA-xxxx-x
 
   # Profile links, leave blank to ignore
   social: 
-    github: rohitgupta91
-    twitter: 
-    facebook: rohitt.gupta
-    gplus: 
-    dribble: 
+    github: gayanvirajith
+    twitter: gayanvirajith
+    facebook: gayanvirajith
+    gplus: +GayanVirajith
+    dribble: gayan
     pinterest: 
   # Toggle disclaimer in footer
   show_disclaimer: true
@@ -55,9 +57,6 @@ exclude:
   - .gitignore
   - .sass-cache
   - Gemfile.lock
-
-gems:
-  - jekyll-sitemap
 
 # Sass conversion configs
 sass:
