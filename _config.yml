@@ -21,20 +21,20 @@ harmony:
    Personal website/blog. Used as a landing page to integrate social media profiles at one place, and for posting musings.
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
-    name: Gayan Virajith
-    email: gayanvirajith@gmail.com
-    url: http://gayanvirajith.github.io
+    name: Rohit Gupta
+    email: rohitgupta@hotmail.co.in
+    url: http://rohigupta91.github.io
 
   # Google Analytics key, leave blank to ignore
   google_analytics_key: UA-xxxx-x
 
   # Profile links, leave blank to ignore
   social: 
-    github: gayanvirajith
-    twitter: gayanvirajith
-    facebook: gayanvirajith
-    gplus: +GayanVirajith
-    dribble: gayan
+    github: rohitgupta91
+    twitter: 
+    facebook: rohitt.gupta
+    gplus: 
+    dribble: 
     pinterest: 
   # Toggle disclaimer in footer
   show_disclaimer: true
