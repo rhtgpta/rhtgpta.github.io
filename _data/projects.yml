@@ -4,7 +4,7 @@
   tagline: predicting the returns for cash-on-delivery shipments 
   tools: R, Python, MongoDB, Linux, AWS
   description: |
-    Higher return rates for e-commerce cash-on-delivery shipments in India. Created a database for transaction history of ~20M unique customers. Brainstormed hypotheses and developed an issue tree to identify major factors. Employed various ML techniques to determine the propensity of return (Logistic Regression, Decision Trees, Support Vector Machines, Neural Networks).    
+    Higher return rates for e-commerce cash-on-delivery shipments in India. Created a database for transaction history of >30M unique customers. Brainstormed hypotheses and developed an issue tree to identify major factors. Employed various ML techniques to determine the propensity of return (Logistic Regression, Decision Trees, Support Vector Machines, Neural Networks).    
   #github:
    # url: 
    # branch: 
