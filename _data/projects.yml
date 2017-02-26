@@ -1,3 +1,14 @@
+- name: Catfight
+  time: November 2016
+  url:
+  tagline: semi-supervised classifier  
+  tools: Python, R, Linux, Ruby, AWS
+  description: |
+    Semi-supervised classification algorithm based on Support Vector Machines to classify e-commerce product names into 24 distinct categories (one-vs-all) using bag-of-words representation. Utilized 15M+ unique unlabeled product descriptions with 70K labeled examples to achieve a classification accuracy of 97%
+  #github:
+   # url: 
+   # branch: 
+
 - name: Black sheeps in E-Commerce
   time: February 2016
   url:
