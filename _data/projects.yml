@@ -24,7 +24,7 @@
   time: October 2015
   url:
   tagline: making business intelligence scalable, quick and easy 
-  tools: R, Python, Pentaho, MongoDB, Linux, AWS, PostgreSQL
+  tools: Pentaho, R, Python, MongoDB, Linux, AWS, PostgreSQL
   description: |
     Identified data requirements of stakeholders. Fetched data from NoSQL, manipulated through R and pushed to SQL database. Defined mondrian schemas and ETL processes. Synced data through DropBox for "on-the-fly" requirements. Automated the procedure through cron jobs. Intuitive UI through Saiku to aggregate huge amounts of data to encourage/simplify independent analysis. Reduced turnaround time from ~3days to <15 minutes. 
   #github:
