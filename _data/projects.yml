@@ -59,7 +59,7 @@
   tagline: identifying effect of macro-economic trends on sales for a leading construction/mining manufacturer
   tools: R, Excel
   description: |
-    Brainstormed and listed hypotheses about factors that affect sales of construction equipment. Scouted for open source US data to explain the monthly sales over years (number of homes built, new planned construction sites, disasters etc). Used a time-series technique (ARIMAx) to predict (sales of a wheel loader).    
+    Brainstormed and listed hypotheses about factors that affect sales of construction equipment. Scouted for open source US data to explain the monthly sales over years (number of homes built, new planned construction sites, disasters etc). Used a time-series technique (ARIMAx) to predict sales of a wheel loader.    
   #github:
    # url: 
    # branch:
