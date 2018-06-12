@@ -1,3 +1,14 @@
+- name: The Wrath of Terror in the US
+  time: December 2017
+  url: https://public.tableau.com/profile/rohit.gupta6756#!/vizhome/project_draft9_0/USStory?publish=yes
+  tagline: an intuitive visualization to assess the impact of terror
+  tools: Tableau, R
+  description: |
+    a tableau dashboard to provide a brief overview of the terror situation in the US since 2001 
+  #github:
+   # url: 
+   # branch: 
+
 - name: Catfight
   time: November 2016
   url:
