@@ -4,7 +4,7 @@
   tagline: an intuitive visualization to assess the impact of terror
   tools: Tableau, R
   description: |
-    a tableau dashboard to provide a brief overview of the terror situation in the US since 2001 
+    a tableau dashboard to provide a brief overview of the terror situation in the US since 2001.
   #github:
    # url: 
    # branch: 
