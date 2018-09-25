@@ -1,10 +1,21 @@
+- name: Visualizing the mood of Indian Politics
+  time: July 2018
+  url: https://beautiful-olympic-21495.herokuapp.com/
+  tagline: sentiment analysis of Indian politics using tweets 
+  tools: Dash (Plotly), Python, Heroku
+  description: |
+    An application that takes a text input from the user, parses through all the scraped tweets and displays the associated sentiment. vaderSentiment is used to assign polarity to a tweet, and the app hosted on a Heroku dyno. 
+  #github:
+   # url: 
+   # branch: 
+
 - name: The Wrath of Terror in the US
   time: December 2017
   url: https://public.tableau.com/profile/rohit.gupta6756#!/vizhome/project_draft9_0/USStory?publish=yes
   tagline: an intuitive visualization to assess the impact of terror
   tools: Tableau, R
   description: |
-    a tableau dashboard to provide a brief overview of the terror situation in the US since 2001.
+    A tableau dashboard to provide a brief overview of the terror situation in the US since 2001.
   #github:
    # url: 
    # branch: 
