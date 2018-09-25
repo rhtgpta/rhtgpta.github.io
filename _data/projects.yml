@@ -5,8 +5,8 @@
   tools: Dash (Plotly), Python, Heroku
   description: |
     An application that takes a text input from the user, parses through all the scraped tweets and displays the associated sentiment. vaderSentiment is used to assign polarity to a tweet, and the app hosted on a Heroku dyno. 
-  #github:
-   # url: 
+  github:
+    url: https://github.com/rohitgupta91/polity_senti
    # branch: 
 
 - name: The Wrath of Terror in the US
