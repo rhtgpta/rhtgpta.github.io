@@ -1,10 +1,10 @@
 # Harmony Jekyll theme general configurations 
 
 # Base URL
-#baseurl: /harmony
+baseurl: /rohitgupta42.github.io
 
 # Site live URL
-url: http://rohitgupta42.github.io
+url: http://rohitgupta.in
 
 # Localhost 
 #url: http://127.0.0.1:4000  
