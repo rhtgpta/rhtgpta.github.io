@@ -17,7 +17,7 @@ Find me on [LinkedIn][li] / [Quora][qr] / [Goodreads][gr] or drop a mail at rohi
 [study]: https://en.wikipedia.org/wiki/Guru_Gobind_Singh_Indraprastha_University
 [proj]: https://rohitgupta91.github.io/projects/
 [fb]: http://www.facebook.com/rohitt.gupta
-[li]: http://www.linkedin.com/in/rohitgupta91
+[li]: http://www.linkedin.com/in/rohitgupta42
 [qr]: https://www.quora.com/profile/Rohit-Gupta-22
 [gr]: https://www.goodreads.com/user/show/8470675-rohit
 [work1]: https://www.mu-sigma.com/
