@@ -4,7 +4,7 @@
 #baseurl: /harmony
 
 # Site live URL
-url: http://rohitgupta91.github.io
+url: http://rohitgupta42.github.io
 
 # Localhost 
 #url: http://127.0.0.1:4000  
@@ -23,14 +23,14 @@ harmony:
   author: # Author details
     name: Rohit Gupta
     email: rohitgupta@hotmail.co.in
-    url: http://rohigupta91.github.io
+    url: http://rohigupta42.github.io
 
   # Google Analytics key, leave blank to ignore
   google_analytics_key: UA-xxxx-x
 
   # Profile links, leave blank to ignore
   social: 
-    github: rohitgupta91
+    github: rohitgupta42
     twitter: rohit_gupta42
     facebook: rohitt.gupta
     gplus: 
