@@ -2,7 +2,6 @@
 
 # Base URL
 #baseurl: /harmony
-baseurl:
 
 # Site live URL
 url: http://rohitgupta42.github.io
@@ -24,7 +23,7 @@ harmony:
   author: # Author details
     name: Rohit Gupta
     email: rohitgupta@hotmail.co.in
-    url: http://rohigupta42.github.io
+    url: http://rohitgupta42.github.io
 
   # Google Analytics key, leave blank to ignore
   google_analytics_key: UA-xxxx-x
