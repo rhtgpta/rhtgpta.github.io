@@ -2,6 +2,7 @@
 
 # Base URL
 #baseurl: /harmony
+baseurl:
 
 # Site live URL
 url: http://rohitgupta42.github.io
