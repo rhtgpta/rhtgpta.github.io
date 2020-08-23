@@ -1,4 +1,4 @@
-# [rohitgupta91.github.io](https://rohitgupta91.github.io)
+# [rohitgupta42.github.io](https://rohitgupta42.github.io)
 
 My personal website where I blog. It also serves as a work portfolio.
 
