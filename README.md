@@ -1,4 +1,4 @@
-# [rohitgupta42.github.io](https://rohitgupta42.github.io)
+# [rhtgpta.github.io](https://rhtgpta.github.io)
 
 My personal website where I blog. It also serves as a work portfolio.
 
